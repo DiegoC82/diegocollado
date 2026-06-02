@@ -12,7 +12,7 @@ Liderando el desarrollo integral de soluciones FinTech, desde plataformas educat
 
 - 🛰️ **Ubicación:** San Rafael, Mendoza, Argentina.
 - 🔭 **Misión Actual:** Fintech Solutions Developer en **Alpha Pro** & Lead Developer de **NexusQuant**.
-- ⚡ **Poder de Cómputo:** Conectando interfaces modernas (React/TS) con backends robustos (.NET 9), clústeres en la nube (GCP) y terminales de trading (MetaTrader).
+- ⚡ **Poder de Cómputo:** Conectando interfaces modernas (React/TS) con backends robustos (.NET 9) y terminales de trading (MetaTrader).
 - 🔒 **Protocolo de Seguridad:** Implementación de arquitecturas de confianza cero, autenticación segura con .NET Identity, Google OAuth y bases de datos SQL Server.
 
 ---
@@ -50,13 +50,13 @@ Desarrollo tecnológico integral de soluciones Fintech, abarcando desde platafor
 *   **Backend Robusto & Seguridad:** Arquitectura de microservicios y API REST construida sobre **.NET Core 9**. Implementación de autenticación segura nativa con **Identity** y gestión estructurada de datos en **SQL Server**.
 *   **Desarrollo Algorítmico (Alpha Bot):** Creación de herramientas de asistencia para trading en **MQL4 y MQL5** (MetaTrader 4 y 5). Desarrollo de un sistema híbrido que permite al operador ejecutar trades manualmente, mientras el bot automatiza el cálculo de lotajes, gestión de riesgo y niveles de entrada/salida. Experiencia de usuario (UX) optimizada dentro de la terminal.
 
-#### 🔵 `> ./NexusQuant/` (Quantitative SaaS & Cloud Architecture)
-Ecosistema SaaS profesional diseñado para centralizar el análisis de estrategias y la creación de portafolios institucionales.
+#### 🔵 `> ./NexusQuant/` (Quantitative & Cloud Architecture)
+Ecosistema profesional diseñado para centralizar el análisis de estrategias y la creación de portafolios institucionales.
 
 *   **Simulador Web MT5:** Motor de backtesting 100% nativo en la web para almacenar y procesar históricos de velas, eliminando la dependencia de software de escritorio.
 *   **Laboratorio de Optimización:** Arquitectura de flujos de trabajo institucionales para análisis matemático `In-Sample` ➔ `Forward` ➔ `Cruce Walk-Forward`.
 *   **Análisis Predictivo:** Desarrollo de paneles interactivos para Simulaciones de Montecarlo, Análisis Estacional y Distribución de Capital Teórico parametrizado (CSV).
-*   **Procesamiento:** Lógica de infraestructura en **Google Cloud Platform (GCP)** diseñada para derivar operaciones intensivas a clústeres de computación GPU.
+*   **Procesamiento:** Lógica de infraestructura en **Python** diseñada para derivar operaciones intensivas a clústeres de computación.
 
 ---
 
@@ -65,5 +65,6 @@ Ecosistema SaaS profesional diseñado para centralizar el análisis de estrategi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoC82&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoC82&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=DiegoC82&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </div>
