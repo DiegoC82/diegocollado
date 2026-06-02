@@ -115,6 +115,8 @@ Tailwind CSS ·········· ████████░░ 85%
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-06060e?style=for-the-badge&logo=linkedin&logoColor=d4a843)](https://linkedin.com/in/diego-collado)
+[![Instagram](https://img.shields.io/badge/Instagram-06060e?style=for-the-badge&logo=instagram&logoColor=a07fd4)](https://www.instagram.com/diegocollado82)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-06060e?style=for-the-badge&logo=whatsapp&logoColor=25d366)](https://wa.me/5492604093808)
 [![NexusQuant](https://img.shields.io/badge/NexusQuant-06060e?style=for-the-badge&logo=vercel&logoColor=a07fd4)](https://nexusquant.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-06060e?style=for-the-badge&logo=gmail&logoColor=ff6b6b)](mailto:diegocollado1982@gmail.com)
 
