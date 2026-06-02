@@ -1,70 +1,110 @@
 <div align="center">
-  <h1><code>&gt; Iniciar_Sesion: Diego Collado_</code></h1>
-  <h3>Full Stack Developer (.NET 9 & React) | MQL | Fintech Solutions Developer</h3>
-  <p><i>"Construyendo la infraestructura tecnológica donde el desarrollo web de alto rendimiento se encuentra con los mercados de capitales."</i></p>
+
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,50:00d4ff,100:00ffaa&height=220&section=header&text=Diego%20Collado&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=React%20Developer%20%E2%9A%99%EF%B8%8F%20Quantitative%20Finance%20%E2%9A%99%EF%B8%8F%20Cloud%20Architecture&descSize=16&descColor=88ffd0&descAlignY=60&animation=fadeIn" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%24+boot+NexusQuant.exe+--env+production;%3E+Conectando+React+%E2%86%94+GCP+%E2%86%94+Capital+Markets...;%3E+Arquitectura+de+confianza+cero+activada.;%3E+Simulador+MT5+nativo+en+web+%E2%9C%94" />
+
 </div>
 
 ---
 
 ### 📟 Terminal de Estado
 
-Liderando el desarrollo integral de soluciones FinTech, desde plataformas educativas y arquitecturas en la nube, hasta herramientas de trading algorítmico híbrido y gestión de capital.
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   Diego Collado · React Developer & Quantitative Finance Engineer    ║
+║                                                                      ║
+║   Construyendo la infraestructura web donde el procesamiento         ║
+║   de alto rendimiento se encuentra con los mercados de capitales.    ║
+║                                                                      ║
+║   > Misión actual:  Lead Developer de NexusQuant                     ║
+║   > Ubicación:      San Rafael, Mendoza, Argentina                   ║
+║   > Seguridad:      Zero Trust · OAuth · CAPTCHA · Cifrado E2E       ║
+║   > Disponible:     Remoto / Full-time / Freelance                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-- 🛰️ **Ubicación:** San Rafael, Mendoza, Argentina.
-- 🔭 **Misión Actual:** Fintech Solutions Developer en **Alpha Pro** & Lead Developer de **NexusQuant**.
-- ⚡ **Poder de Cómputo:** Conectando interfaces modernas (React/TS) con backends robustos (.NET 9) y terminales de trading (MetaTrader).
-- 🔒 **Protocolo de Seguridad:** Implementación de arquitecturas de confianza cero, autenticación segura con .NET Identity, Google OAuth y bases de datos SQL Server.
+<div align="center"><i>"Deja de adivinar el mercado. Empieza a medirlo."</i></div>
 
 ---
 
 ### 🛠️ Núcleo Tecnológico
 
-Stack estructurado para velocidad, seguridad institucional y gestión de arquitecturas financieras complejas:
+Mi stack está optimizado para velocidad, seguridad y manejo de bases de datos masivas como históricos de velas financieras:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <img src="https://img.shields.io/badge/Vite-B73BA5?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQL4%20%2F%20MQL5-000000?style=for-the-badge&logo=algolia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arquitectura_SaaS-1A1B27?style=for-the-badge" />
+
+**Core**
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+**Finanzas & Cuantitativo**
+
+[![Algorithmic Trading](https://img.shields.io/badge/Algorithmic_Trading-76B900?style=for-the-badge)](https://nexusquant.vercel.app/)
+[![Backtesting](https://img.shields.io/badge/Backtesting_Engine-FF6B35?style=for-the-badge)](https://nexusquant.vercel.app/)
+[![Monte Carlo](https://img.shields.io/badge/Monte_Carlo_Sim-8A2BE2?style=for-the-badge)](https://nexusquant.vercel.app/)
+[![Walk Forward](https://img.shields.io/badge/Walk--Forward_Analysis-00FFAA?style=for-the-badge&logoColor=black)](https://nexusquant.vercel.app/)
+
+**Seguridad & Arquitectura**
+
+[![Zero Trust](https://img.shields.io/badge/Zero_Trust_Architecture-1A1B27?style=for-the-badge)](https://nexusquant.vercel.app/)
+[![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://nexusquant.vercel.app/)
+[![SaaS Architecture](https://img.shields.io/badge/SaaS_Architecture-0D1117?style=for-the-badge)](https://nexusquant.vercel.app/)
+
 </div>
 
 ---
 
-### 📂 Archivos de Proyecto: Ecosistema FinTech
+### 📂 Archivos de Proyecto: NexusQuant
 
-#### 🟢 `> ./Alpha_Pro/` (Fintech Solutions & Algorithmic Trading)
-Desarrollo tecnológico integral de soluciones Fintech, abarcando desde plataformas web educativas hasta herramientas de trading algorítmico avanzadas.
+> **[🚀 NexusQuant — Ver en vivo](https://nexusquant.vercel.app/)** · Ecosistema SaaS profesional para análisis de estrategias y construcción de portafolios de trading institucional.
 
-*   **Frontend Moderno:** Desarrollo de SPA de alto rendimiento utilizando **Vite, React y TypeScript**. Diseño de interfaces responsivas y eficientes con **Tailwind CSS**.
-*   **Gestión de Estado Avanzada:** Implementación de **Zustand** para el estado global y **TanStack Query (v5)** para el estado del servidor, migrando y optimizando la lógica de flujo de datos para adaptarse a la depreciación de callbacks obsoletos (*onSuccess/onError*).
-*   **Backend Robusto & Seguridad:** Arquitectura de microservicios y API REST construida sobre **.NET Core 9**. Implementación de autenticación segura nativa con **Identity** y gestión estructurada de datos en **SQL Server**.
-*   **Desarrollo Algorítmico (Alpha Bot):** Creación de herramientas de asistencia para trading en **MQL4 y MQL5** (MetaTrader 4 y 5). Desarrollo de un sistema híbrido que permite al operador ejecutar trades manualmente, mientras el bot automatiza el cálculo de lotajes, gestión de riesgo y niveles de entrada/salida. Experiencia de usuario (UX) optimizada dentro de la terminal.
-
-#### 🔵 `> ./NexusQuant/` (Quantitative & Cloud Architecture)
-Ecosistema profesional diseñado para centralizar el análisis de estrategias y la creación de portafolios institucionales.
-
-*   **Simulador Web MT5:** Motor de backtesting 100% nativo en la web para almacenar y procesar históricos de velas, eliminando la dependencia de software de escritorio.
-*   **Laboratorio de Optimización:** Arquitectura de flujos de trabajo institucionales para análisis matemático `In-Sample` ➔ `Forward` ➔ `Cruce Walk-Forward`.
-*   **Análisis Predictivo:** Desarrollo de paneles interactivos para Simulaciones de Montecarlo, Análisis Estacional y Distribución de Capital Teórico parametrizado (CSV).
-*   **Procesamiento:** Lógica de infraestructura en **Python** diseñada para derivar operaciones intensivas a clústeres de computación.
+| Módulo | Descripción |
+|---|---|
+| 🔁 **Simulador Web MT5** | Motor de backtesting 100% nativo en la web. Almacena y procesa históricos de velas sin depender de software de escritorio. |
+| 🧪 **Laboratorio de Optimización** | Flujos institucionales `In-Sample` ➔ `Forward` ➔ `Walk-Forward Cruzado`. |
+| 📊 **Análisis Predictivo** | Paneles interactivos para Simulaciones de Montecarlo y Análisis Estacional. |
+| 💰 **Distribución de Capital** | Algoritmos de capital teórico con exportación paramétrica a CSV. |
+| 🏗️ **Modelo de Negocio** | Monetización escalonada Freemium/Premium con límites operativos para bots y pares transaccionales. |
 
 ---
 
 ### 📊 Telemetría del Sistema
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoC82&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <br>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=DiegoC82&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=13&duration=2000&pause=1000&color=00FFAA&background=00000000&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%94%8A+SYSTEM+DIAGNOSTICS+%F0%9F%94%8A" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoC82&show_icons=true&include_all_commits=true&count_private=true&bg_color=020205&title_color=00d4ff&text_color=889290&icon_color=00ffaa&border_color=1a1a2e&ring_color=00ffaa" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoC82&background=020205&stroke=1a1a2e&ring=00d4ff&fire=00ffaa&currStreakNum=ffffff&sideNums=889290&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=889290&border=1a1a2e" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoC82&bg_color=020205&color=00d4ff&line=00ffaa&point=ffffff&area_color=00ffaa&area=true&hide_border=true" alt="Activity Graph" />
+
 </div>
+
+---
+
+### 🔗 Establecer Conexión
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=13&duration=2000&pause=1000&color=FF2A55&background=00000000&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%94%97+ESTABLISH+CONNECTION+%F0%9F%94%97" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-020205?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/diego-collado)
+[![NexusQuant](https://img.shields.io/badge/NexusQuant-020205?style=for-the-badge&logo=vercel&logoColor=00ffaa)](https://nexusquant.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-020205?style=for-the-badge&logo=gmail&logoColor=ff2a55)](mailto:diegocollado1982@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=DiegoC82&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&abbreviated=true)
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,50:00d4ff,100:00ffaa&height=120&section=footer" />
